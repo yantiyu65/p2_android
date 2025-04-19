@@ -20,7 +20,7 @@
             android:layout_width="200dp"
             android:layout_height="200dp"
             android:layout_gravity="center"
-            app:srcCompat="@drawable/main" />
+            app:srcCompat="@drawable/cal3" />
 
         <TextView
             android:id="@+id/txtMenu"
@@ -57,7 +57,7 @@
                         android:id="@+id/imgTemp"
                         android:layout_width="80dp"
                         android:layout_height="80dp"
-                        app:srcCompat="@drawable/suhu" />
+                        app:srcCompat="@drawable/suhu2" />
 
                     <TextView
                         android:id="@+id/txtTemp"
@@ -84,7 +84,7 @@
                         android:id="@+id/imgMasa"
                         android:layout_width="80dp"
                         android:layout_height="80dp"
-                        app:srcCompat="@drawable/masa" />
+                        app:srcCompat="@drawable/kg21" />
 
                     <TextView
                         android:id="@+id/txtMasa"
@@ -121,7 +121,7 @@
                         android:id="@+id/imgLuas"
                         android:layout_width="80dp"
                         android:layout_height="80dp"
-                        app:srcCompat="@drawable/luas" />
+                        app:srcCompat="@drawable/luas1" />
 
                     <TextView
                         android:id="@+id/txtLuas"
@@ -149,7 +149,7 @@
                         android:id="@+id/imgJarak"
                         android:layout_width="80dp"
                         android:layout_height="80dp"
-                        app:srcCompat="@drawable/jarak" />
+                        app:srcCompat="@drawable/jarak1" />
 
                     <TextView
                         android:id="@+id/txtJarak"

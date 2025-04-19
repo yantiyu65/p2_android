@@ -18,7 +18,7 @@
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_gravity="center_horizontal"
-            app:srcCompat="@drawable/masa" />
+            app:srcCompat="@drawable/kg21" />
 
         <TextView
             android:id="@+id/txtMenuMasa"

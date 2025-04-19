@@ -17,7 +17,7 @@
                 android:layout_width="150dp"
                 android:layout_height="150dp"
                 android:layout_gravity="center_horizontal"
-                app:srcCompat="@drawable/jarak" />
+                app:srcCompat="@drawable/jarak1" />
 
             <TextView
                 android:id="@+id/txtMenuJarak"
